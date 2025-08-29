@@ -1,0 +1,7 @@
+# Essential packages only - Python 3.13 compatible
+eel>=0.16.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+textblob>=0.17.1
+nltk>=3.8.1
+requests>=2.31.0
